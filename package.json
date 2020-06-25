@@ -1,5 +1,5 @@
 {
-  "name": "dx-react-grid-formatters",
+  "name": "@maruware/dx-react-grid-formatters",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
