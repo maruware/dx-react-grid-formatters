@@ -72,27 +72,27 @@ function App() {
         <DataTypeProvider
           for={['url']}
           formatterComponent={UrlFormatter}
-        ></DataTypeProvider>
+        />
 
         <DataTypeProvider
           for={['isReady']}
           formatterComponent={BooleanFormatter}
-        ></DataTypeProvider>
+        />
 
         <DataTypeProvider
           for={['status']}
           formatterComponent={StatusFormatter}
-        ></DataTypeProvider>
+        />
 
         <DataTypeProvider
           for={['createdAt']}
           formatterComponent={TimeFormatter}
-        ></DataTypeProvider>
+        />
 
         <DataTypeProvider
           for={['updatedAt']}
           formatterComponent={RelativeTimeFormatter}
-        ></DataTypeProvider>
+        />
       </Grid>
     </div>
   );
