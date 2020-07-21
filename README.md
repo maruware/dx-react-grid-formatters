@@ -22,6 +22,8 @@ yarn start
 
 Open http://localhost:3000
 
+![screenshot](https://user-images.githubusercontent.com/1129887/88009733-23fea500-cb4e-11ea-9ab9-04a3f20e452c.png)
+
 ## Usage
 
 ### BooleanFormatter
